@@ -8,4 +8,4 @@
 2022,   Merit Student (2022-2023) in Peking Univeristy.\
 2022,   Yanchuang Capital Scholarship (2022-2023).\
 2020,  37-th China National Physics  Olympiad, Bronze medal.\
-2020,   36-th China National Mathematics Olympiad, the First prize in Jiangsu Province.\
+2020,   36-th China National Mathematics Olympiad, the First prize in Jiangsu Province.
